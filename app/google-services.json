@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "616346453865",
+    "firebase_url": "https://hunger-dd854.firebaseio.com",
+    "project_id": "hunger-dd854",
+    "storage_bucket": "hunger-dd854.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616346453865:android:6386f6b1ce864f02",
+        "android_client_info": {
+          "package_name": "com.bas.android.hunger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616346453865-h18r0ioq2pkp6kdf9lusqqp76dh1mnt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bas.android.hunger",
+            "certificate_hash": "ad1da3a345dc518732d038f01c5c564570792753"
+          }
+        },
+        {
+          "client_id": "616346453865-4g5ckc7dqedcepl2mjon29ge0hadvtb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-eNVoOnoexKMc-gLygb9bA0gg5tl6Y14"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616346453865-4g5ckc7dqedcepl2mjon29ge0hadvtb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
